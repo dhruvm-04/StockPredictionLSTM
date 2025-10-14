@@ -15,5 +15,5 @@ This project implements an advanced deep learning model for **intraday stock pri
 
 ## How to Run
 
-1.  Run the entire **`mlproject.ipynb`** notebook on a machine with **GPU access** (recommended for training).
+1.  Run the entire **`mlproject.ipynb`** notebook on a machine with **GPU access**.
 2.  The final cell launches an inbuilt UI for custom stock predictions.
