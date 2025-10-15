@@ -59,9 +59,9 @@ Performance on the test set, focusing on the nearest 5-minute prediction:
 
 | Metric | Result | Interpretation (High Performance) |
 | :--- | :--- | :--- |
-| **R² Score** | `0.9023` | Model explains over 90% of the variance in the true price movements. |
-| **RMSE** | `0.7626` | Average prediction error is approximately $0.76 USD$ in price scale. |
-| **MAE** | `0.5067` | Average absolute error is approximately $0.51 USD$ in price scale. |
+| **R² Score** | `0.8945` | Model explains close to 90% of the variance in the true price movements. |
+| **RMSE** | `0.8606` | Average prediction error is approximately $0.76 USD$ in price scale. |
+| **MAE** | `0.5954` | Average absolute error is approximately $0.51 USD$ in price scale. |
 
 ## 5. Usage Instructions
 
